@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jtfink
-- 👀 I’m interested in ... minerals and crystals!
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning ... python and Latex
 - 📫 How to reach me ... fink31@purdue.edu
 
